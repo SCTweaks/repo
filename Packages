@@ -1,0 +1,48 @@
+Package: com.custom.secondsclock
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SC
+Installed-Size: 168
+Depends: ellekit
+Filename: debs/SecondsClock_1.0.0.deb
+Size: 4732
+MD5sum: f1315422cf5f474f3852b27ba13e1d52
+SHA1: 3de9eb7aa4863bc5b41b01ba647b30decd5b21fa
+SHA256: 65489c2ee62ce3c154c8eeba28439146403d449f7447f162242beb313c122117
+Section: Tweaks
+Description: Status bar clock with seconds
+Author: SC
+Name: SecondsClock
+
+Package: com.example.wappmod
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SC
+Installed-Size: 172
+Depends: ellekit
+Filename: debs/WhatsAppMod_1.0.0.deb
+Size: 7780
+MD5sum: 34e6fb70f395c67e5c0a7bbe02a33bd1
+SHA1: f3bce16710d8c6029631f7932653988241c8772c
+SHA256: da75864a28add7f51134f88b322a0db40de49a83b1a88963e87ecc5d8e5a48bd
+Section: Tweaks
+Description: WhatsApp customization
+Author: SC
+Name: WhatsApp Mod
+
+Package: com.spidey.battery
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: SC
+Installed-Size: 168
+Depends: ellekit
+Filename: debs/SpideyBattery_1.1.0.deb
+Size: 4308
+MD5sum: e5b83bcd96a9962ea43f9d0ce72723a2
+SHA1: 2ba4c5c1789db3a79cbf661b1da2224f1f6fa4a5
+SHA256: 5b12562849f2b522c311d59b240da0debce872a021f70feaf79b4b449f3da5de
+Section: Tweaks
+Description: Spider-Man status bar battery — blue icon, red percentage
+Author: SC
+Name: SpideyBattery
+

@@ -1,0 +1,8 @@
+Origin: SC
+Label: SC Repo
+Suite: stable
+Version: 1.0
+Codename: sc
+Architectures: iphoneos-arm64
+Components: main
+Description: SC's personal tweaks — SpideyBattery, SecondsClock, WhatsApp Mod
