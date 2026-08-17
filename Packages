@@ -53,10 +53,10 @@ Maintainer: SC
 Installed-Size: 248
 Depends: mobilesubstrate
 Filename: debs/UniversalSummarizer_1.0.0.deb
-Size: 26036
-MD5sum: 98e83cea038241bfbce2c29bac2f12b6
-SHA1: fd0ab350ea87a979838ce6df9d205d7604eb98f0
-SHA256: 74ef79725157221f2a5265c41e9e17a5bc80d3025f8af46b66d3a5e9a3d57491
+Size: 25912
+MD5sum: 6846c7e90e3988d5c617bfe3b39c4457
+SHA1: 2837c20776c53f06375badce7809948c5788429d
+SHA256: afbe7621f9d19f967c963da01af5588698a61b8ca711c947b633af242c5dcf45
 Section: Tweaks
 Description: One-tap Groq LLaMA 3.3 AI article, email, and thread summarizer for Safari, Reddit, Gmail, TipRanks, and The Local.
 Author: SC
