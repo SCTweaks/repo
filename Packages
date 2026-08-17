@@ -14,6 +14,54 @@ Description: Status bar clock with seconds
 Author: SC
 Name: SecondsClock
 
+Package: com.custom.thelocalsummarizer
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SC
+Installed-Size: 220
+Depends: mobilesubstrate
+Filename: debs/TheLocalSummarizer_1.0.0.deb
+Size: 22440
+MD5sum: a615c5c385efd69489d8562acb06168b
+SHA1: af877b60d3e0a55986f622cf2bc558bafa1da726
+SHA256: 96dd1ed79e6affaa748c597e61c5605008940bf35ba7361c32df451376e96759
+Section: Tweaks
+Description: Summarize articles with a single tap inside The Local news app.
+Author: SC
+Name: TheLocal Summarizer
+
+Package: com.custom.tiprankssummarizer
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SC
+Installed-Size: 220
+Depends: mobilesubstrate
+Filename: debs/TipRanksSummarizer_1.0.0.deb
+Size: 25032
+MD5sum: 7dbc8ccd1ce28c27e96989e55026a779
+SHA1: 31a7fb30d3f12a692558f11f75544d3359336609
+SHA256: b3ecac4105395be58b6580896400a0d6dbea3bdff70a1a0a508aa57015682dc8
+Section: Tweaks
+Description: Summarize stock news and analysis articles with Groq LLaMA 3.3 AI inside the TipRanks app.
+Author: SC
+Name: TipRanks Summarizer
+
+Package: com.custom.universalsummarizer
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SC
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: debs/UniversalSummarizer_1.0.0.deb
+Size: 25488
+MD5sum: f88611db8c515c95f06fb4d8036db64b
+SHA1: 4006dc204c7f5ce760782aafc24e646186001595
+SHA256: 8006bf50f014de6468070d427b98065436cac70691600670be638ffbb1df18fd
+Section: Tweaks
+Description: One-tap Groq LLaMA 3.3 AI article, email, and thread summarizer for Safari, Reddit, Gmail, TipRanks, and The Local.
+Author: SC
+Name: Universal AI Summarizer
+
 Package: com.example.wappmod
 Version: 1.0.0
 Architecture: iphoneos-arm64
