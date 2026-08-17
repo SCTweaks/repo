@@ -50,13 +50,13 @@ Package: com.custom.universalsummarizer
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: SC
-Installed-Size: 236
+Installed-Size: 248
 Depends: mobilesubstrate
 Filename: debs/UniversalSummarizer_1.0.0.deb
-Size: 25624
-MD5sum: 51a20ac517b141cfaf04645236289b3f
-SHA1: 16423228df431c13cbee2f364edda4dab76a06c1
-SHA256: 0770e3a3d77bc9a664c28b177ad1ef3c80064684d928a9655ed46f836cf84934
+Size: 27824
+MD5sum: 994cc7d7fe3621049563e2c9817e6fb6
+SHA1: b50ece1b1d218305d7ba6f806281dd52b33d6f50
+SHA256: 54a4f8d8476e02d3a8a04b9e0ec4f9abad69b1e7cd1934affd61eb6425156889
 Section: Tweaks
 Description: One-tap Groq LLaMA 3.3 AI article, email, and thread summarizer for Safari, Reddit, Gmail, TipRanks, and The Local.
 Author: SC
